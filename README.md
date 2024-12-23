@@ -68,7 +68,7 @@ The codebase is divided into three key components:
 2. **`gameboard.py`**: Contains the game board's structure and logic.
 3. **`player.py`**: Defines the `Player` class for handling player information.
 
----
+
 
 ### 1. **Main Game Loop**
 The main game loop is in `main.py`. It initializes the players and the game board, then alternates turns between the two players.
@@ -174,7 +174,7 @@ def checkHorizontal(self, Color):
 ## Running the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/connect4.git
+   git clone https://github.com/MoShimer96/connect4.git
    ```
 2. Navigate to the project directory:
    ```bash
